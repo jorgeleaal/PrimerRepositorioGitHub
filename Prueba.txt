@@ -17,3 +17,5 @@ Esto es una nueva rama develop y vamos a hacer un merge con main
 Esto es un cambio hecho desde GitHub
 
 Esto es un segundo cambio desde GitHub
+
+Esto es un cambio desde git (vs code)
