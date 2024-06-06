@@ -1,1 +1,5 @@
 #Este es mi git ignore
+
+#Imagenes que no queremos agregar
+*.jpg
+*.png
